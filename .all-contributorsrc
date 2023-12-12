@@ -264,8 +264,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/60194650?v=4",
       "profile": "http://yassfuentes.es",
       "contributions": [
-        "content",
-      ],
+        "content"
+      ]
     },
     {
       "login": "fergalc",
@@ -275,6 +275,96 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "z3ntu",
+      "name": "Luca Weiss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3768500?v=4",
+      "profile": "https://z3ntu.xyz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "C9Glax",
+      "name": "Glax",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13404778?v=4",
+      "profile": "https://github.com/C9Glax",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "saxobroko",
+      "name": "Saxo_Broko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18757374?v=4",
+      "profile": "https://saxobroko.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Svedrin",
+      "name": "Michael Ziegler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/946488?v=4",
+      "profile": "https://github.com/Svedrin",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "korri",
+      "name": "Hugo Vacher",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130747?v=4",
+      "profile": "https://github.com/Korri",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "aasiddiq",
+      "name": "Aadil Siddiqui",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9424117?v=4",
+      "profile": "https://github.com/aasiddiq",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tabias",
+      "name": "tabias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6348309?v=4",
+      "profile": "https://github.com/tabias",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DailytheNoob",
+      "name": "Daily the Noob",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18452976?v=4",
+      "profile": "http://daviddaily.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "OscarTienda",
+      "name": "Óscar Tienda Beteta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89542749?v=4",
+      "profile": "https://github.com/OscarTienda",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Danjaraka",
+      "name": "Daniel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38589122?v=4",
+      "profile": "https://github.com/Danjaraka",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -282,5 +372,7 @@
   "projectOwner": "firefly-iii",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
